@@ -1,3 +1,4 @@
 git training on may 15
-git training by Mike
+git training by Mike 
 git training by Ali
+training at UoM classroom
